@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **elmarchik04@ya.ru**
 
-- 📄 Know about my experiences [docs.google.com](https://docs.google.com/document/d/1bvPdSpwRBNzabexdU_zdzuOrBdeTPO-bSERNRcezBn8/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
