@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Elmar</h1>
-<h3 align="center">Student from Moscow</h3>
-
-- 🌱 I’m currently learning **microservice pattern, algorithms**
-
-- 💬 Ask me about **go**
-
-- 📫 How to reach me **elmarchik04@ya.ru**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
