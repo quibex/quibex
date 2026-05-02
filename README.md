@@ -12,8 +12,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,kafka,rabbitmq,mongodb,grafana,nginx,linux,git&theme=dark" alt="stack"/>
-  &nbsp;
-  <img src="https://victoriametrics.com/logo.png" alt="victoriametrics" height="48"/>
 </p>
 
 #### daily drivers
@@ -40,3 +38,13 @@
 </p>
 
 <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quibex&hide_border=true&background=0D1117&stroke=0D1117&ring=D97757&fire=D97757&currStreakLabel=E6E6E6&sideLabels=A0A0A0&currStreakNum=E6E6E6&dates=A0A0A0&sideNums=E6E6E6" height="165"/>
+</p>
+
+---
+
+<p align="left">
+  <a href="https://t.me/goubex">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="goubex telegram"/>
+  </a>
+</p>
