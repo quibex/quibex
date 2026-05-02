@@ -4,11 +4,6 @@
 
 `go backend · streaming infra · indie ops`
 
-building video pipelines at MTS/KION by day  
-running a VPN that scales past 1k clients by night  
-
-moscow, ru ← osh, kg · en b1→b2 · always shipping
-
 </div>
 
 ---
@@ -16,7 +11,9 @@ moscow, ru ← osh, kg · en b1→b2 · always shipping
 #### stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,kafka,rabbitmq,mongodb,linux,nginx,git&theme=dark" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,kafka,rabbitmq,mongodb,grafana,nginx,linux,git&theme=dark" alt="stack"/>
+  &nbsp;
+  <img src="https://victoriametrics.com/logo.png" alt="victoriametrics" height="48"/>
 </p>
 
 #### daily drivers
@@ -35,8 +32,11 @@ moscow, ru ← osh, kg · en b1→b2 · always shipping
 
 ---
 
+#### stats
+
 <p align="left">
-  <a href="https://youtube.com/@quibex"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://t.me/quibex"><img src="https://img.shields.io/badge/telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=quibex&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6E6E6&text_color=A0A0A0&icon_color=D97757&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quibex&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6E6E6&text_color=A0A0A0&langs_count=8" height="165"/>
 </p>
+
+<p align="left">
